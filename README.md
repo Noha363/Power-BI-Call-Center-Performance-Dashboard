@@ -1,0 +1,4 @@
+The Dashboard is generated using the Power BI visualization tool which provides comprehensive insights into call center performance and customer service metrics. In addition to comparing current metrics to the same period from the previous year and include conditional formatting to illustrate the changes easily. Visualize call volume, average handle time, call abandonment rate, customer satisfaction scores, detailed analysis of performance at hourly intervals, agent performance, and more with interactive charts and reports.These insights will help the call center companies to optimize their operations and improve customer satisfaction.
+
+Power BI service link: 
+https://app.powerbi.com/view?r=eyJrIjoiNTFhMTdlYzctNGRhNC00NmRjLWE1OTAtM2YzMjgwODY5MGQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
